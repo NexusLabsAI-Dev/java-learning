@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except src and README
+!src/
+!src/**
+!README.md
+!.gitignore
